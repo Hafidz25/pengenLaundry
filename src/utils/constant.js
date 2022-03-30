@@ -1,0 +1,5 @@
+export const primary_color = '#55CB95'
+export const second_color = '#C8C8C8'
+export const back_color = '#E0F7EF'
+export const gray = '#F6F6F6'
+export const warning_color = '#FF4D00'
